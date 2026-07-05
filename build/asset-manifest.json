@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/suburbite/static/css/main.d2e6bd8e.css",
+    "main.js": "/suburbite/static/js/main.a5a13cd3.js",
+    "index.html": "/suburbite/index.html",
+    "main.d2e6bd8e.css.map": "/suburbite/static/css/main.d2e6bd8e.css.map",
+    "main.a5a13cd3.js.map": "/suburbite/static/js/main.a5a13cd3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2e6bd8e.css",
+    "static/js/main.a5a13cd3.js"
+  ]
+}
